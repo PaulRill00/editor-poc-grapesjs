@@ -1,3 +1,5 @@
+import './style.css';
+
 import grapesjs from 'grapesjs';
 import { Bounds } from './Bounds';
 import { Editor } from './Editor';

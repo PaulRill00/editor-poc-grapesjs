@@ -1,6 +1,13 @@
-body {
-    background-color: black;
+.gjs-cv-canvas .gjs-highlighter {
+    outline-color: red;
 }
 
+.gjs-cv-canvas div {
+    outline-color: red;
+}
+
+/* .gjs-dashed *[data-gjs-highlightable] {
+    outline-color: red;
+} */
 
 /*# sourceMappingURL=/src.f10117fe.css.map */

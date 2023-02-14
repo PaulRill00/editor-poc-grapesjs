@@ -17,7 +17,7 @@
             left: calc((85% - (400px - 40px)) / 2);
             top: calc((85% - 400px) / 2);
         }</style>
-  </head>
+  <link rel="stylesheet" href="/src.f10117fe.css"></head>
   <body>
 
 <button onclick="addCmp()">add component</button>
@@ -38,6 +38,8 @@ function addCmp() {
     // Can't move it
     copyable: true,
     // Disable copy/past
+    resizable: true,
+    rotateable: true,
     content: 'Content text',
     // Text inside component
     style: {

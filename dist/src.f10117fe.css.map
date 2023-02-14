@@ -1,1 +1,1 @@
-{"version":3,"sources":["src/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"src.f10117fe.css","sourceRoot":"..","sourcesContent":["body {\n    background-color: black;\n}\n"]}
+{"version":3,"sources":["src/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.f10117fe.css","sourceRoot":"..","sourcesContent":[".gjs-cv-canvas .gjs-highlighter {\n    outline-color: red;\n}\n\n.gjs-cv-canvas div {\n    outline-color: red;\n}\n\n/* .gjs-dashed *[data-gjs-highlightable] {\n    outline-color: red;\n} */"]}

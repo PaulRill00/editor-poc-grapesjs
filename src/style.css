@@ -1,0 +1,11 @@
+.gjs-cv-canvas .gjs-highlighter {
+    outline-color: red;
+}
+
+.gjs-cv-canvas div {
+    outline-color: red;
+}
+
+/* .gjs-dashed *[data-gjs-highlightable] {
+    outline-color: red;
+} */
