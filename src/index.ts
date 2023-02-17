@@ -18,6 +18,6 @@ const grapesEditor = grapesjs.init({
     `,
  });
 
-const bounds = new Bounds(grapesEditor);
-const editor = new Editor(grapesEditor, bounds);
-const elementBuilder = new ElementBuilder(editor);
+// // const bounds = new Bounds(grapesEditor);
+// // const editor = new Editor(grapesEditor, bounds);
+// // const elementBuilder = new ElementBuilder(editor);
